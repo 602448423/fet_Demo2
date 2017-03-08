@@ -1,0 +1,138 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: rgb(222,222,222);
+}
+.web_head{
+	width: 100%;
+	height: 80px;
+	background-color: rgb(51,51,51);
+	line-height: 80px;
+
+}
+.web_head ul li{
+	float: right;
+	margin-left: 30px;
+	color: black;
+	font-size: 13px;
+
+
+}
+.web_head ul li a{
+	color: white;
+	text-decoration: none;
+}
+.web_head ul li a:hover{
+	color: rgb(222,222,222);
+}
+.first{
+	background-color: white;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-right: solid 2px;
+	border-bottom: solid 2px;
+	border-color: grey;
+}
+.first_h2{
+	color: grey;
+	font-size: 15px;
+ }
+ .first_p{
+ 	color: grey;
+ 	font-size: 12px;
+ }
+ .second{
+	background-color: white;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-right: solid 2px;
+	border-bottom: solid 2px;
+	border-color: grey;
+}
+.second_h2{
+	color: grey;
+	font-size: 15px;
+ }
+ .second_p{
+ 	color: grey;
+ 	font-size: 12px;
+ }
+ .second ul li{
+ 	list-style: none;
+ }
+  .third{
+	background-color: white;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-right: solid 2px;
+	border-bottom: solid 2px;
+	border-color: grey;
+}
+.third p{
+	border:solid 1px grey;
+	width: 400px;
+	border-right: solid 1px grey;
+	border-right: solid 1px grey;
+	padding-left: 12px;
+}
+.fourth{
+	background-color: white;
+
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-right: solid 2px;
+	border-bottom: solid 2px;
+	border-color: grey;
+}
+.fourth_h2{
+	color: grey;
+	font-size: 15px;
+ }
+ .fourth_p{
+ 	color: grey;
+ 	font-size: 12px;
+ }
+
+ .fourth ul ol{
+ 	font-weight: bold; 
+ 	font-size: 16px;
+ 	line-height:25px;
+ }
+ .fourth table{
+ 	border-left:1px;
+ }
+ .fourth th{
+ 	width:500px;
+ 	background-color: rgb(51,51,51);
+ }
+ .table_color{
+ 	background-color: rgb(204,204,204);
+ }
+ .last{
+	background-color: white;
+
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-right: solid 2px;
+	border-bottom: solid 2px;
+	border-color: grey;
+	text-align: center;
+}
+.last h2{
+	line-height:50px;
+	border-left:solid 4px rgb(205,205,205); 
+	font-size: 19px;
+	
+	
+
+}
